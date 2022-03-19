@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     //const is compile variable and final is runtime
 
     {
-      'queText': '1.what is Flutter?',
+      'queText': '1.What is Flutter?',
       'ansText': [
         {'text': 'SDK', 'score': 1},
         {'text': 'Language', 'score': 0},
